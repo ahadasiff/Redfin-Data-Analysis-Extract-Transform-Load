@@ -4,7 +4,7 @@
 This project implements a robust data analysis pipeline for real estate data sourced from Redfin. Utilizing a combination of Python, Apache Airflow, AWS S3, Snowpipe, and Power BI, the pipeline automates the extraction, transformation, and loading (ETL) of data, enabling insightful visualizations and analytics.
 
 ## Project Structure
-![etl img](./redfin_analytics.png)
+ ![Image Alt](https://github.com/ahadasiff/Redfin-Data-Analysis-Extract-Transform-Load/blob/d8a3ad75a96fda8b561e192ddb5f9e4b7875989d/redfin_analytics.png.png)
 
 ## Technologies Used
 - **Python:** For scripting the ETL processes.
